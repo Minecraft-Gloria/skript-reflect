@@ -1,5 +1,9 @@
 # skript-reflect
 
+## Additional expression on Gloria
+- > `unwrap %object%`
+- When you use `Skrip-reflect` to work with other systems, if the extracted values appear as [ObjectWrapper](src/main/java/com/btk5h/skriptmirror/ObjectWrapper.java) class, you can use that Expression to unwrap.
+
 This fork of [skript-mirror](https://github.com/btk5h/skript-mirror) aims to fix
 multiple issues that I believe have been present for too long, and implement some long-wanted features.
 
